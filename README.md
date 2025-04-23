@@ -54,3 +54,12 @@ git clone https://github.com/sanjanatg/DAA-LAB-PROGRAMS.git
 cd DAA-LAB-PROGRAMS
 javac ProgramName.java
 java ProgramName
+```
+## 🤝 Contributions
+Pull requests are welcome! You can add:
+
+Remaining experiments
+
+GUI visualizations or CLI enhancements
+
+Python versions for comparisons
