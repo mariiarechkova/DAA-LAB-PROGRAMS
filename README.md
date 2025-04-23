@@ -1,6 +1,6 @@
 # 💡 Design and Analysis of Algorithms – Lab Programs (23CS253)
 
-This repository contains Java/C/C++ implementations of the **Design and Analysis of Algorithms Lab (DAA Lab)** as per the VTU syllabus (CAMBRIDGE INSTITUTE OF TECHNOLOGY, Semester IV). It includes a wide range of algorithmic strategies like **Brute Force, Divide and Conquer, Greedy, Dynamic Programming, and Backtracking**.
+This repository contains Java implementations of the **Design and Analysis of Algorithms Lab (DAA Lab)** as per the VTU syllabus (CAMBRIDGE INSTITUTE OF TECHNOLOGY, Semester IV). It includes a wide range of algorithmic strategies like **Brute Force, Divide and Conquer, Greedy, Dynamic Programming, and Backtracking**.
 
 ---
 
